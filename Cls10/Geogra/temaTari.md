@@ -6,18 +6,22 @@
 |     |      |          |           |           |            |     |     |
 |     |      |          |           |           |            |     |     |
 
-### II. America Centrală
+## II. America Centrală
 
-#### A. Țările continentale
+### A. Țările continentale
 
-#### B. a. Antitele Mari
+### B.
+
+#### a. Antitele Mari
 
 #### b. Antitele Mici
 
-### III. America de Sud
-
-### IV. Rusia (U.R.S.S, C.S.I)
-
-### V. Asia
+## III. America de Sud
 
 ### VI. Oceania
+
+## IV. Rusia (U.R.S.S, C.S.I)
+
+## V. Asia
+
+## VI. Oceania
