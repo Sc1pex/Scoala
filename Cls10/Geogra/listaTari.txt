@@ -1,0 +1,201 @@
+Africa de Sud
+Algeria
+Angola
+Benin
+Botswana
+Burundi
+Burkina Faso
+Camerun
+Capul Verde
+Republica Centrafricană
+Ciad
+Comore
+Congo
+Coasta de Fildeș
+Djibouti
+Egipt
+Eritreea
+Etiopia
+Eswatini
+Gabon
+Gambia
+Ghana
+Guineea
+Guinee
+Guineea Ecuatorială
+Kenya
+Lesotho
+Liberia
+Libia
+Madagascar
+Malawi
+Mali
+Mauritania
+Mauritius
+Maroc
+Mozambic
+Namibia
+Niger
+Nigeria
+Rwanda
+São Tomé și Príncipe
+Senegal
+Sierra Leone
+Somalia
+Sudan
+Sudanul de Sud
+Tanzania
+Togo
+Tunisia
+Uganda
+Sahara Occidentală
+Seychelles
+Zambia
+Zimbabwe
+Afganistan
+Arabia Saudită
+Azerbaidja
+Bahrain
+Bangladesh
+Bhutan
+Brunei
+Cambodgia
+China
+Taiwan
+Coreea de Nord
+Coreea de Sud
+Egipt
+Emiratele Arabe Unite
+India
+Indonezia
+Iordania
+Iran
+Irak
+Israel
+Japonia
+Kazahstan
+Kuweit
+Kârgâzstan
+Laos
+Liban
+Malaezia
+Maldive
+Mongolia
+Myanmar
+Nepal
+Oman
+Pakistan
+Palestina
+Rusia
+Filipine
+Qatar
+Singapore
+Sri Lanka
+Siria
+Tadjikistan
+Thailanda
+Timorul de Est
+Turcia
+Turkmenistan
+Uzbekistan
+Vietnam
+Yemen
+Albania
+Andorra
+Armenia
+Austria
+Belarus
+Belgia
+Bosnia și Herțegovina
+Bulgaria
+Cehia
+Cipru
+Croația
+Danemarca
+Elveția
+Estonia
+Finlanda
+Franța
+Germania
+Georgia
+Grecia
+Irlanda
+Islanda
+Italia
+Kosovo
+Letonia
+Liechtenstein
+Lituania
+Luxemburg
+Macedonia de Nord
+Malta
+Moldova
+Monaco
+Muntenegru
+Norvegia
+Olanda
+Polonia
+Portugalia
+Regatul Unit
+România
+Rusia
+San Marino
+Serbia
+Slovacia
+Slovenia
+Spania
+Suedia
+Ucraina
+Ungaria
+Vatican
+Antigua și Barbuda
+Bahamas
+Barbados
+Belize
+Canada
+Costa Rica
+Cuba
+Dominica
+Republica Dominicană
+El Salvador
+Grenada
+Groenlanda
+Guatemala
+Haiti
+Honduras
+Jamaica
+Mexic
+Nicaragua
+Panama
+Sfântul Cristofor și Nevis
+Sfânta Lucia
+Sfântul Vincent și Grenadine
+Statele Unite ale Americii
+Trinidad și Tobago
+Australia
+Fiji
+Kiribati
+Marshall
+Micronezia
+Nauru
+Noua Zeelandă
+Palau
+Papua Noua Guinee
+Samoa
+Solomon
+Tonga
+Tuvalu
+Vanuatu
+Argentina
+Bolivia
+Brazilia
+Chile
+Columbia
+Ecuador
+Guyana
+Guyana Francez
+Paraguay
+Peru
+Surinam
+Uruguay
+Venezuela

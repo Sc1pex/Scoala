@@ -21,5 +21,3 @@
 ### V. Asia
 
 ### VI. Oceania
-
-
