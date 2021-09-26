@@ -44,7 +44,7 @@
       - #### **Miofibrila**
         - in fibre musculare
         - rol in contractiile musculare
-      - #### **Neurofibride
+      - #### **Neurofibride**
         - in neuroni
         - schelet
         - transmite impulsuri nervoase
