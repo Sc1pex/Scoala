@@ -1,41 +1,74 @@
-### Definitie
+# Definitie
     Este unitatea de baza structurala, functionala si genetica a organismelor vii.
 
-### Clasificare
-D.p.d.v. evolutionar:
-  - procariota -> nucleoid
-  - eucariota -> nucleu cu membrana proprie
+# Clasificare
+  - ### procariota -> nucleoid
+  - ### eucariota -> nucleu cu membrana proprie
 
-### Componente
-- Perete celular
-  - Rol
+# Componente
+- ## Perete celular
+  - ### Rol
     - Protectie
     - Forma
     - Solidarizarea celulelor intr-un testut
-- Membrana
-  - Rol
+- ## Membrana
+  - ### Rol
     - Protectie
     - Forma
     - Controleaza schimburile de subst dinte celula si mediu extern (permeabilitate selectiva)
-- Citoplasma
-  - Clasificare
+- ## Citoplasma
+  - ### Clasificare
     - Fundamentala (hialoplasma)
     - Structurata (organite)
-  - Componente
+  - ### Componente
     - Comune
-      - Ribozomi
+      - #### **Ribozom**
         - sinteza proteica
-      - Libozomi
+      - #### **Libozom**
         - descompun particule/subst straine/particule proprii care nu sunt necesare
-      - Reticul citoplasmatic
+      - #### **Reticul citoplasmatic**
         - transport intercitoplasmatic
-        - neted (REN) 
-      - Aparat Golgi
-      - Vacuole
-      - Centruzone
-      - Mitocondrii
+        - neted -> sinteza lipidelor, metabolismul glicogenului
+        - granuar (rugos) -> sinteza proteinelor
+      - #### **Aparat Golgi**
+        - excretie
+      - #### **Vacuola**
+        - depozitarea subst
+      - #### **Centrozom**
+        - lipseste din neuron
+        - formeaza fusuri de diviziune 
+      - #### **Mitocondrie**
+        - produce energie
+        - sediul respiratiei celulare
     - Specifice
-      - Mifobridite
-      - Neurofibride
-      - Clorofile
-- Nucleu
+      - #### **Miofibrila**
+        - in fibre musculare
+        - rol in contractiile musculare
+      - #### **Neurofibride
+        - in neuroni
+        - schelet
+        - transmite impulsuri nervoase
+      - #### **Corpuscul Nissl**
+        - in neuroni
+        - sinteza proteica
+      - #### **Cloroplaste**
+        - contin clorofila
+        - fotosinteza
+- ## Nucleu
+  - ### Rol
+    - coordoneaza toata activitatea
+    - contine material genetic -> transmiterea unor trasaturi
+  - ### Alcatuire
+    - #### Membrana dubla
+    - #### Citoplasma
+      - **1-2 nucleoi**
+      - **cromatina**
+        - se condenseaza -> **cromozomi**
+      - **cromozomi**
+        - #### Clasificare
+          - in functie de nr cromatidelor
+            - **monocromatidici**
+            - **bicromatidici**
+          - in functie de informatie
+            - **autozomi -> insusiri**
+            - **heterozomi -> sex**
