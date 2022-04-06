@@ -1,0 +1,1 @@
+Format din tesut conjunctiv in care se depoziteaza grasimea

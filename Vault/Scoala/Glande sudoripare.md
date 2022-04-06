@@ -1,0 +1,1 @@
+Produc sudoarea/transpiratia prin care sunt eliminate unele subst ce ar putea deveni toxice

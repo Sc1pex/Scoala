@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "6ef8267ec152d685",
+    "type": "split",
+    "children": [
+      {
+        "id": "46fdf95e40e1a207",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "fose nazale.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f819e558f8d4e314",
+    "type": "split",
+    "children": [
+      {
+        "id": "a76120b67c26ac4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f5a328e2868445c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1055f86a4396550",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 171
+  },
+  "right": {
+    "id": "c7a94ae498665c90",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8ce3c923b9701f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80b2d3476ee4cde9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "fose nazale.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "46fdf95e40e1a207",
+  "lastOpenFiles": [
+    "fose nazale.md",
+    "Nasul.md",
+    "Pielea.md",
+    "Glande sudoripare.md",
+    "Glande sebacee.md",
+    "Unghia.md",
+    "Firul de par.md",
+    "retina.md",
+    "Unghiile.md",
+    "Hipoderm.md"
+  ]
+}

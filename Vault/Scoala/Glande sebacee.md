@@ -1,0 +1,1 @@
+Produc sebumul care catifeleaza [[Pielea]], da stralucire parului, il face matasos si rezistent

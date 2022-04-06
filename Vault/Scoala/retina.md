@@ -1,0 +1,18 @@
+##### Contine
+-  celule 
+	- cu bastonase 
+		- raspunzatoare de vederea alb negru si nocturna
+		- pigment vizual rodopsina
+	-  cu conuri 
+		- raspunzatoare de vederea color si diurna
+		- de 3 tipuri: pt rosu, verde, albastru
+		- pigment vizual iodopsina 
+- Pata galbena
+	- Zona de pe retina cu acuitate vizuala maxima deoarece predomina celulele cu conuri, iar in mijloc se gaseste o depresiune (macula lutea cu fovea centralis)
+	- Fiecare celula face sinapsa cu un neuron bipolar
+	- Fiecare neuron bipolar face sinapsa cu un neuron multipolar
+- Pata oarba
+	- Zona de pe retina care nu contine fotoreceptori si corespunde locului unde nervul optic paraseste [[globul ocular]]
+- Exceptand pata oarba, in restul retinei apare fenomenul de convergenta
+	- Mai mutle fotoreceptoare fac sinapsa cu un neuron bipolar
+	- Mai multi neuroni bipolari fac sinapsa cu un neuron multipolar
