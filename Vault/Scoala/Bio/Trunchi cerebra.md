@@ -1,0 +1,18 @@
+- In continuarea [[Maduva Spinarii]]
+- Format din
+	- dpdv structural
+		- subst alba la ext
+		- subst cenusie la int sub forma de nuclei
+	- dpdv
+		- bulb rahidian
+		- puntea lui varolio
+		- mezoencefal
+
+- Nuclei
+	- senzitivi
+		- primesc inf de la nivelul limbii, urechii interne, pileii fetei
+	- motori
+		- transmit comenzi catre muschii din zona capului, faringii, limbii
+	- vegetativi
+		- centri nervosi ai unor reflexe innascute (neconditionate)
+		- ex: respiratorii, cardiovasculare, lacrimal, salivator

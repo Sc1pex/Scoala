@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "46fdf95e40e1a207",
+        "id": "2601d85c1256ba4f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fose nazale.md",
+            "file": "Bio/Diencefal.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fose nazale.md",
+                "file": "Bio/Diencefal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46fdf95e40e1a207",
+  "active": "2601d85c1256ba4f",
   "lastOpenFiles": [
-    "fose nazale.md",
-    "Nasul.md",
-    "Pielea.md",
-    "Glande sudoripare.md",
-    "Glande sebacee.md",
-    "Unghia.md",
-    "Firul de par.md",
-    "retina.md",
-    "Unghiile.md",
-    "Hipoderm.md"
+    "Bio/Diencefal.md",
+    "Bio/Encefal.md",
+    "Bio/Sistemul nervos.md",
+    "Bio/Cerebel.md",
+    "Bio/Trunchi cerebra.md",
+    "Bio/Maduva Spinarii.md",
+    "Romana/Teza cls 10 sem 2.md",
+    "Romana/Particularitati Ion.md",
+    "Bio/Cristalin.md",
+    "Bio/fose nazale.md"
   ]
 }

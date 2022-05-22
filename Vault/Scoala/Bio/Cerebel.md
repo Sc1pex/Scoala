@@ -1,0 +1,17 @@
+- in partea posterioara a trunchiului cerebral
+- dpdv morfologic
+	- 2 emisfere cerebeloase
+	- vermis
+- dpdv filogenetic
+	- arhicerebrel
+	- palocerebrel
+	- neocerebrel
+- dpdv structural
+	- subst alba
+		- la int -> arborele vietii
+	- subst cenusie
+		- la ext -> scoarta cerebeloasa
+		- la int -> nuclei
+- Rol:
+	- merntinerea echilibrului, posturii, poz corpului
+	- realizarea de miscari fine, de precizie

@@ -1,0 +1,3 @@
+- In continuarea trunchiuliu cerebral, sub emisferele cerebrale
+- subst cenusie -> nuclei
+- 

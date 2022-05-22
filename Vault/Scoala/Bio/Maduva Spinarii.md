@@ -1,0 +1,12 @@
+- In canalul vertebral
+	- C1 - L2
+	- se continua cu filum terminale
+- filum terminale + nervii sacrali si lombari -> coada de cal
+
+- Cilindru usor turtit antero-posterior
+- 2 ingfrosari (intumescente)
+	- intumescenta cervicala -> locul de origine a nervilor membrelor superioare
+	- intumescenta lombara -> locul de origine a nervilor membrelor inferioare
+- Pe partea anterioara -> fisura mediana anterioara
+- Pe partea posterioara -> santul median posterior
+- Conectata de receptori si efectori prin 31 de perechi de nervi spinali

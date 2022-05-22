@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "showLineNumber": true,
-  "vimMode": true
+  "vimMode": true,
+  "promptDelete": false
 }
